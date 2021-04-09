@@ -1,4 +1,4 @@
-﻿# Visual Thinking Nine Dots Puzzle
+﻿# Nine Dots Visual Thinking Puzzle
 
 <p align="center"><img src="https://raw.githubusercontent.com/citris-ucdavis/ninedots/master/.github/ninedots.jpg" width="480"></p>
 
